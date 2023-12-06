@@ -6,7 +6,7 @@ https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 channel-id="samsung-ESBD800004KU" tvg-id="ESBD800004KU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD800004KU_20231115T012158SQUARE.png_20231115012159.png" tvg-chno="4001" group-title="Películas" , Runtime Romance
 https://i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8
 
-#EXTINF:1 tvg-id="LA 1 4K+" tvg-name="|ES| LA 1 4K+" tvg-logo="https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000" group-title="SPAIN",|ES| LA 1 4K+
+#EXTINF:1 tvg-id="LA 1 4K+" tvg-logo="https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000" group-title="SPAIN",|ES| LA 1 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/256
 #EXTINF:1 tvg-id="" tvg-name="|ES| LA 2 4K+" tvg-logo="" group-title="SPAIN",|ES| LA 2 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/257
