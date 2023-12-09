@@ -8,11 +8,11 @@ https://i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8
 
 #EXTINF:1 tvg-id="LA 1 4K+" tvg-logo="https://seeklogo.com/images/T/tve-la-1-logo-18CBC6CD6F-seeklogo.com.png?v=638252010700000000" group-title="SPAIN",|ES| LA 1 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/256
-#EXTINF:1 tvg-id="" tvg-name="|ES| LA 2 4K+" tvg-logo="" group-title="SPAIN",|ES| LA 2 4K+
+#EXTINF:1 tvg-id="LA 2 4K+" tvg-logo="https://elements-cover-images-0.imgix.net/10b7fd89-29c1-445b-9f5c-4b0c80c4b5fb?auto=compress%2Cformat&w=1370&fit=max&s=147e8605eea90d75dda6e69615b437c0" group-title="SPAIN",|ES| LA 2 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/257
-#EXTINF:1 tvg-id="" tvg-name="|ES| Antena 3 4K+" tvg-logo="" group-title="SPAIN",|ES| Antena 3 4K+
+#EXTINF:1 tvg-id="Antena 3 4K" tvg-logo="https://elements-cover-images-0.imgix.net/10b7fd89-29c1-445b-9f5c-4b0c80c4b5fb?auto=compress%2Cformat&w=1370&fit=max&s=147e8605eea90d75dda6e69615b437c0" group-title="SPAIN",|ES| Antena 3 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/258
-#EXTINF:1 tvg-id="" tvg-name="|ES| Cuatro 4K+" tvg-logo="" group-title="SPAIN",|ES| Cuatro 4K+
+#EXTINF:1 tvg-id="Cuatro 4K" tvg-name="|ES| Cuatro 4K+" tvg-logo="https://elements-cover-images-0.imgix.net/10b7fd89-29c1-445b-9f5c-4b0c80c4b5fb?auto=compress%2Cformat&w=1370&fit=max&s=147e8605eea90d75dda6e69615b437c0" group-title="SPAIN",|ES| Cuatro 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/259
 #EXTINF:1 tvg-id="" tvg-name="|ES| Telecinco 4K+" tvg-logo="" group-title="SPAIN",|ES| Telecinco 4K+
 http://117.55.202.141:80/E-Corp/E-Corp/260
