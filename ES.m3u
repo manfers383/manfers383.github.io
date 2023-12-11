@@ -1,0 +1,118 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL ✪ | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV ✪ | CL
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://cdn.m3u.cl/logo/14_Urban_TV.png", Urban TV ✪ | ES
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://cdn.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV | ES
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1475" tvg-name="101TV Sevilla" tvg-logo="https://cdn.m3u.cl/logo/1475_101TV_Sevilla.png", 101TV Sevilla | ES
+https://streaming101tv.es/hls/websevilla.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1341" tvg-name="12tv" tvg-logo="https://cdn.m3u.cl/logo/1341_12tv.png", 12tv | ES
+https://cloud.streamingconnect.tv/hls/12tv/gcmin.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="599" tvg-name="324 Catalunya" tvg-logo="https://cdn.m3u.cl/logo/599_324_Catalunya.png", 324 Catalunya | ES
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="600" tvg-name="7TV Murcia" tvg-logo="https://cdn.m3u.cl/logo/600_7TV_Murcia.png", 7TV Murcia | ES
+https://ythls.onrender.com/channel/UCXi-7dpQ1mnf8kxIVCe9mCA.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="629" tvg-name="Alcarria TV" tvg-logo="https://cdn.m3u.cl/logo/629_Alcarria_TV.png", Alcarria TV | ES
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1045" tvg-name="Aragon TV" tvg-logo="https://cdn.m3u.cl/logo/1045_Aragon_TV.png", Aragon TV | ES
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="601" tvg-name="Bon Dia" tvg-logo="https://cdn.m3u.cl/logo/601_Bon_Dia.png", Bon Dia | ES
+https://directes-tv-int.ccma.cat/live-origin/bondia-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1443" tvg-name="Cadena Joven Digital" tvg-logo="https://cdn.m3u.cl/logo/1443_Cadena_Joven_Digital.png", Cadena Joven Digital | ES
+https://streamtv2.elitecomunicacion.cloud:3738/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="602" tvg-name="Canal 33 Madrid" tvg-logo="https://cdn.m3u.cl/logo/602_Canal_33_Madrid.png", Canal 33 Madrid | ES
+https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="603" tvg-name="Canal 4 Television Baleares" tvg-logo="https://cdn.m3u.cl/logo/603_Canal_4_Television_Baleares.png", Canal 4 Television Baleares | ES
+http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="627" tvg-name="Canal Costa" tvg-logo="https://cdn.m3u.cl/logo/627_Canal_Costa.png", Canal Costa | ES
+http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="632" tvg-name="Canal Parlamento - Madrid" tvg-logo="https://cdn.m3u.cl/logo/632_Canal_Parlamento___Madrid.png", Canal Parlamento - Madrid | ES
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="605" tvg-name="Castilla-La Mancha Media" tvg-logo="https://cdn.m3u.cl/logo/605_Castilla_La_Mancha_Media.png", Castilla-La Mancha Media | ES
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_w9e95evt/protocol/https/format/applehttp/flavorIds/1_4h5yhwgv,1_pio2o58x,1_s3dc6p0p/a.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="633" tvg-name="Cultura 365" tvg-logo="https://cdn.m3u.cl/logo/633_Cultura_365.png", Cultura 365 | ES
+http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="607" tvg-name="El 33" tvg-logo="https://cdn.m3u.cl/logo/607_El_33.png", El 33 | ES
+https://directes-tv-es.ccma.cat/live-origin/c33-super3-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="885" tvg-name="El Futuro en tu Mano" tvg-logo="https://cdn.m3u.cl/logo/885_El_Futuro_en_tu_Mano.jpg", El Futuro en tu Mano | ES
+https://limited24.todostreaming.es/live/renjillo-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="608" tvg-name="El Toro" tvg-logo="https://cdn.m3u.cl/logo/608_El_Toro.png", El Toro | ES
+https://streaming011.gestec-video.com/hls/eltoro_bal.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="609" tvg-name="ETB SAT Pais Vasco" tvg-logo="https://cdn.m3u.cl/logo/609_ETB_SAT_Pais_Vasco.png", ETB SAT Pais Vasco | ES
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="610" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://cdn.m3u.cl/logo/610_Euskal_Telebista_1_Pais_Vasco.png", Euskal Telebista 1 Pais Vasco | ES
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="611" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://cdn.m3u.cl/logo/611_Euskal_Telebista_1_Pais_Vasco.png", Euskal Telebista 1 Pais Vasco | ES
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://cdn.m3u.cl/logo/612_Extremadura.png", Extremadura | ES
+https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png", La 1 | ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png", La 2 | ES
+https://ztnr.rtve.es/ztnr/1688885.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://cdn.m3u.cl/logo/626_La_Otra.png", La Otra | ES
+http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="615" tvg-name="Lancelot TV Canarias" tvg-logo="https://cdn.m3u.cl/logo/615_Lancelot_TV_Canarias.png", Lancelot TV Canarias | ES
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="616" tvg-name="Levante TV" tvg-logo="https://cdn.m3u.cl/logo/616_Levante_TV.png", Levante TV | ES
+https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
+#EXTINF:-1 tvg-id="597" tvg-name="Momentos G" tvg-logo="https://cdn.m3u.cl/logo/597_Momentos_G.png", Momentos G | ES
+http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="617" tvg-name="Onda Algeciras" tvg-logo="https://cdn.m3u.cl/logo/617_Onda_Algeciras.png", Onda Algeciras | ES
+https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="618" tvg-name="Onda Mezquita" tvg-logo="https://cdn.m3u.cl/logo/618_Onda_Mezquita.png", Onda Mezquita | ES
+https://593fa17dec176.streamlock.net//mezquita/mezquita/chunklist_w1592524042.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="619" tvg-name="Radio Television Ceuta" tvg-logo="https://cdn.m3u.cl/logo/619_Radio_Television_Ceuta.png", Radio Television Ceuta | ES
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="620" tvg-name="Radiotelevision del Principado de Asturias" tvg-logo="https://cdn.m3u.cl/logo/620_Radiotelevision_del_Principado_de_Asturias.png", Radiotelevision del Principado de Asturias | ES
+https://cdnlive.shooowit.net/rtpalive/directo.smil/chunklist_b1500000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="630" tvg-name="Real Madrid TV (English)" tvg-logo="https://cdn.m3u.cl/logo/630_Real_Madrid_TV__English_.png", Real Madrid TV (English) | ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="631" tvg-name="Real Madrid TV HD" tvg-logo="https://cdn.m3u.cl/logo/631_Real_Madrid_TV_HD.png", Real Madrid TV HD | ES
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1080" tvg-name="Super 3" tvg-logo="https://cdn.m3u.cl/logo/1080_Super_3.png", Super 3 | ES
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="886" tvg-name="Taroteame" tvg-logo="https://cdn.m3u.cl/logo/886_Taroteame.jpg", Taroteame | ES
+https://5b45171a7ade6.streamlock.net/taroteame/tarot_web/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="621" tvg-name="Telemadrid" tvg-logo="https://cdn.m3u.cl/logo/621_Telemadrid.png", Telemadrid | ES
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="622" tvg-name="Television Municipal de Cordoba" tvg-logo="https://cdn.m3u.cl/logo/622_Television_Municipal_de_Cordoba.png", Television Municipal de Cordoba | ES
+http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://cdn.m3u.cl/logo/623_Travel_TV.png", Travel TV | ES
+http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://cdn.m3u.cl/logo/624_TV_Galicia_Europa.png", TV Galicia Europa | ES
+http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="625" tvg-name="TV3 Television de Catalunya" tvg-logo="https://cdn.m3u.cl/logo/625_TV3_Television_de_Catalunya.png", TV3 Television de Catalunya | ES
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://cdn.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV | ES
+http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://cdn.m3u.cl/logo/512_ETB.png", ETB | ES
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://cdn.m3u.cl/logo/513_RTVE1.png", RTVE1 | ES
+https://ztnr.rtve.es/ztnr/1688877.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="514" tvg-name="RTVE24" tvg-logo="https://cdn.m3u.cl/logo/514_RTVE24.png", RTVE24 | ES
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://cdn.m3u.cl/logo/515_TV_Galicia_America.png", TV Galicia America | ES
+http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1075" tvg-name="Cadena Elite" tvg-logo="https://cdn.m3u.cl/logo/1075_Cadena_Elite.png", Cadena Elite | ES
+https://cloudvideo.servers10.com:8081/8004/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1076" tvg-name="Fabulosa FM" tvg-logo="https://cdn.m3u.cl/logo/1076_Fabulosa_FM.png", Fabulosa FM | ES
+http://185.36.211.142:8080/tmp_hls/fabulosa/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://cdn.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV | ES
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1077" tvg-name="Molahits TV" tvg-logo="https://cdn.m3u.cl/logo/1077_Molahits_TV.png", Molahits TV | ES
+http://ventdelnord.tv:8080/mola/directe.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1240" tvg-name="7NN" tvg-logo="https://cdn.m3u.cl/logo/1240_7NN.png", 7NN | ES
+https://dxf45ob769xpw.cloudfront.net/out/v1/90ce358337e14be3bb82b6566b50a8b1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="598" tvg-name="TVE 24H" tvg-logo="https://cdn.m3u.cl/logo/598_TVE_24H.png", TVE 24H | ES
+https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://cdn.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV | ES
+https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="198" tvg-name="TBN España" tvg-logo="https://cdn.m3u.cl/logo/198_TBN_Espana.png", TBN España | ES
+https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1058" tvg-name="Spectrum Channel" tvg-logo="https://cdn.m3u.cl/logo/1058_Spectrum_Channel.jpg", Spectrum Channel | CL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
