@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABTV.bd" tvg-logo="https://i.imgur.com/ytH4Ncu.png" group-title="General",AB TV (720p) [Not 24/7]
+https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/abtvusa.stream/playlist.m3u8
+
 #EXTINF:-1 name="324.es" logoUrl="https://i.imgur.com/l6NzX2t.png" group-title="News",3/24 (1080p)
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1 name="Canal7TeleValencia.es" logoUrl="https://i.imgur.com/ILfXDRs.png" group-title="General",7 TeleValencia (576p)
