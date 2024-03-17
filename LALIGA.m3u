@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1tvg-id=" M LALIGA FHD"  tvg-logo=" "
+http://58498078291165385.of1207.xyz:80/play/fe1010312/kB8vehMcjM6/165385.ts
+#EXTINF:-1tvg-id=" M LALIGA HD"  tvg-logo=" "
+http://58498078291165392.of1207.xyz:80/play/fe1010312/kB8vehMcjM6/165392.ts
+#EXTINF:-1tvg-id=" M LALIGA SD"  tvg-logo=" "
+http://58498078291165393.of1207.xyz:80/play/fe1010312/kB8vehMcjM6/165393.ts
+#EXTINF:-1tvg-id=" LA LIGA FHD"  tvg-logo=" "  tvg-logo=" "(H 265)
+http://58498078291262413.of1207.xyz:80/play/fe1010312/kB8vehMcjM6/262413.ts
